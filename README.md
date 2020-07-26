@@ -1,0 +1,2 @@
+# HOW-TO-USE-ROAS-TO-IMPROVE-GOOGLE-ADS
+If you have spent a significant sum of money on PPC ads, it is important to know that getting clicks isn’t the big picture. There is no point on having an ad if it does not generate revenue. That is why conversion rates and ROAS are important metrics that help you know if your investment on ads is worth it. Broadly the best way to find out is to bring together the amount you spend with the amount of revenue generated. Read more on https://www.prism-me.com/blog/how-to-maximize-return-on-ad-spend-2020
